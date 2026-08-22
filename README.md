@@ -1,2 +1,3 @@
 # python_bag_catch_and_analyse
 使用python scapy包对wireshark抓取数据进行分析的项目，归属pycharm下
+本仓库储存scapy相关测试项目
